@@ -18,3 +18,4 @@
 9. [Weather_reactive](https://github.com/ivanmaleev/weather_reactive)
 10. [Chat](https://github.com/ivanmaleev/chat)
 11. [Exchange volute service](https://github.com/ivanmaleev/exchange_rates)
+12. [Simple site](https://github.com/ivanmaleev/simple-site)
