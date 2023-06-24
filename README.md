@@ -4,10 +4,10 @@
 
 * I am 35 year old programmer from Cheboksary :computer:
 * I learn Java at [Job4j](https://job4j.ru/) :coffee:
-* My Java expirience is 1 year
+* My Java expirience is 2 year
 
 ##### Projects:
-1. [Book shop (in progress)](https://github.com/ivanmaleev/book-shop)
+1. [Book shop](https://github.com/ivanmaleev/book-shop)
 2. [Short URL generation service](https://github.com/ivanmaleev/job4j_urlshortcut)
 3. [Simple forum](https://github.com/ivanmaleev/job4j_forum)
 4. [Car accidents](https://github.com/ivanmaleev/job4j_car_accident)
